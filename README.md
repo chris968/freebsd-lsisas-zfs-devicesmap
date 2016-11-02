@@ -1,3 +1,4 @@
+# freebsd-lsisas-zfs-devicesmap
 This script return a .csv formated output of the device mapping bettween a selected zfs pool and the LSI SAS3 controller.
 
 the output return the following informations:
